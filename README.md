@@ -25,7 +25,7 @@ JSON -> javaScript Object Notation is a standard text-based format for represent
 
 #TECHNOLOGY USE
 
-solidity , HTML , CSS , Node JS 
+Web3 , Html , javascript , node js and solidity .
 
 Home page - withdraw and transfer of ethereum
 ![IMG-20220601-WA0016](https://user-images.githubusercontent.com/77094389/171598198-24375fe3-8e53-4a82-a167-7cba2a83091d.jpg)
