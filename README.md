@@ -10,10 +10,12 @@ Gnache-> is a personal etherium Blockchain used to test smart contract where you
 Metamerse-> it inject two thing web3 and etherium by which we connnect that with our blockchain, smart contract.
 
 
-tools require  
+# CONCEPT USE
 Blockchain-> it is a database which is decentralized basically no one has any authority,it is difficult to change.Blockchain is a block of information.
 
 smart code-> it is used for transaction,for interact between smart contract and front-end we need API that work as a smart contract.
+
+# tools and technology use
 
 Truffle-> truffle developed enviroment testing for etherium blockchain,it is used to deploy blockchain in gnache we connect react js to blockchain.
 
@@ -21,9 +23,9 @@ React js-> it is integerated with web 3-JS , it install to write code for fundin
 
 solidity-> this language is used for smart contract ,etheriun is withdraw or deposit by this code. [etherium Blockchain]
 
-JSON -> javaScript Object Notation is a standard text-based format for representing structured data based on JavaScript object syntax. It is commonly used for transmitting data in web applications 
+Web 3.0 ->In a Web3 world, information is stored in virtual digital wallets, not in data centers. Individuals use these wallets to tap into Web3 applications, which are run on blockchain technology
 
-#TECHNOLOGY USE
+JSON -> javaScript Object Notation is a standard text-based format for representing structured data based on JavaScript object syntax. It is commonly used for transmitting data in web applications 
 
 Web3 , Html , javascript , node js and solidity .
 
