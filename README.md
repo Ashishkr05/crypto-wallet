@@ -15,7 +15,7 @@ Blockchain-> it is a database which is decentralized basically no one has any au
 
 smart code-> it is used for transaction,for interact between smart contract and front-end we need API that work as a smart contract.
 
-# tools and technology use
+# Tools and technology use
 
 Truffle-> truffle developed enviroment testing for etherium blockchain,it is used to deploy blockchain in gnache we connect react js to blockchain.
 
@@ -29,14 +29,16 @@ JSON -> javaScript Object Notation is a standard text-based format for represent
 
 Web3 , Html , javascript , node js and solidity .
 
-Home page - withdraw and transfer of ethereum
+# Demo-How it Work
+
+# Home page - withdraw and transfer of ethereum
 ![IMG-20220601-WA0016](https://user-images.githubusercontent.com/77094389/171598198-24375fe3-8e53-4a82-a167-7cba2a83091d.jpg)
 
-Metaverse open
+# Metaverse open
 ![IMG-20220601-WA0015](https://user-images.githubusercontent.com/77094389/171598191-dcbfe69d-7978-4f91-b45e-eea2395fd60b.jpg)
 
-Transfer or withdraw of ethereum By Metaverse
+# Transfer or withdraw of ethereum By Metaverse
 ![IMG-20220601-WA0013](https://user-images.githubusercontent.com/77094389/171598173-52c9a99b-1879-444c-bf24-82cdc496f1a8.jpg)
 
-Gnache (local blockchain) Address
+# Gnache (local blockchain) Address
 ![IMG-20220601-WA0017](https://user-images.githubusercontent.com/77094389/171598203-e7ab5201-ba9f-4e61-a379-ccf4d9e64ac8.jpg)
