@@ -25,5 +25,5 @@ JSON -> javaScript Object Notation is a standard text-based format for represent
 
 #TECHNOLOGY USE
 
-solidity  HTML CSS Node JS 
+solidity , HTML , CSS , Node JS 
 
